@@ -1,3 +1,3 @@
 # cutf8
 
-Simple utf8 string implementation in C.
+Simple UTF-8 string implementation in C.
